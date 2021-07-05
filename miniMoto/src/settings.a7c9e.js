@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","New Group 3","ui"],collisionMatrix:[[true,true],[true,true],[false,false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/carSelect.fire",orientation:"",jsList:[],bundleVers:{internal:"69b9a",resources:"c7354",main:"8affd"}};
